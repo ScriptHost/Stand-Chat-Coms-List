@@ -1,7 +1,7 @@
 # Informations :
-Original Command List : https://rxcf.github.io/Stand-CCL/
-The list you are looking at has been updated as late as Stand 116.10.
-Last Updated : Friday 19th July 2024 at 08:30AM.
+- Original Command List : https://rxcf.github.io/Stand-CCL/
+- The list you are looking at has been updated as late as Stand 116.10.
+- Last Updated : Friday 19th July 2024 at 08:30AM.
 
 # Table of Contents
 - Spawn Commands
