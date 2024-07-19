@@ -1,0 +1,214 @@
+# Informations :
+Original Command List : https://rxcf.github.io/Stand-CCL/
+The list you are looking at has been updated as late as Stand 116.10.
+Last Updated : Friday 19th July 2024 at 08:30AM.
+
+# Table of Contents
+- Spawn Commands
+- Friendly Commands
+- Neutral Commands
+- Rude Commands
+- Aggressive Commands
+- Toxic Commands
+- All Players Commands
+
+# Spawn Commands
+- `spawn <carname>`
+- `<carname>`
+
+# Friendly Commands
+- Players > (Player) > Friendly
+  - Vehicles
+    - `repairveh <name>` - Fix Vehicle
+    - `givevehgod <name>` - Indestructible
+    - `givenolockon <name>` - Can't Be Locked On
+    - `givepower <name> (1.00 to 20.00)` - Engine Power Multiplier
+  - `givecollectibles <name>` - Give Collectibles > All
+  - `ceopay <name>` - CEO Money Loop
+  - `rp <name>` - Give RP
+  - `figurines <name>` - Drop Casino Figurines
+  - `cards <name>` - Drop Playing Cards
+  - `autoheal <name>` - Auto Heal / Semi-Godmode
+  - `bail <name>` - Never Wanted
+  - `giveotr <name>` - Off The Radar
+  - `snack <name>` - Drop P's & Q's
+  - `givesh <name>` - Give Script Host
+- Players > (Player) > Weapons
+  - `arm <name> all` - Give All Weapons
+  - `arm <name> <weapon_name>` - Gives a specific weapon.
+  - `ammo <name>` - Give Ammo
+  - `paragive <name>` - Give Parachute
+
+# Neutral Commands
+- Players > (Player) > Friendly
+  - `snack <name>` - Drop P's & Q's
+- Players > (Player) > Teleport
+  - `tp <name>` - Teleport To Them.
+- Players > (Player) > Trolling
+  - `beast <name>` - Turn Into Beast
+  - `as <name> <command>` - Issue Commands On Their Behalf
+- Players > (Player) > Increment Commend/Report Stats
+  - `commendhelpful <name>` - Helpful
+  - `commendfriendly <name>` - Friendly
+# Rude Commands
+- Players > (Player) > Teleport
+  - `summon <name>` - Teleport To Me
+  - `aptwp <name>` - Teleport to the nearest apartment around my waypoint
+  - `aptme <name>` - Teleport to the nearest apartment around me
+  - `apt[1-114] <name>` - Teleport to an apartment
+- Players > (Player) > Chat
+  - `chatmock <name>` - Mock Chat Messages
+  - `chatowo <name>` - OwO-ify Chat Messages
+- Players > (Player) > Weapons
+  - `disarm <name>` - Completely disarms the player, leaving them with nothing but their fists.
+- Players > (Player) > Trolling
+  - `pwanted <name> (1-5)` - Set Wanted Level
+  - `ragdoll <name>` - Ragdoll
+  - `shakecam <name>` - Shake Camera
+  - `bounty <name> (0 - 10000)` - Place Bounty
+    - Send Notifications
+      - `notifyremoved <name> [-2147483648 - 2147483648]` - Cash Removed
+      - `notifystolen <name> [-2147483648 - 2147483648]` - Cash Stolen
+      - `notifybanked <name> [-2147483648 - 2147483648]` - Cash  Banked
+      - `notifyspam <name>` - Notification Spam
+  - `novehs <name>` - Disable Driving Vehicles
+
+# Aggressive Commands
+- Players > (Player) > Teleport
+  - `casinotp <name>` - Teleport to Casino
+- Players > (Player) > Trolling > Vehicle
+  - `killveh <name>` - Kill
+  - `flipveh <name>` - Flip
+  - `spin <name>` - Spin
+  - `empveh <name>` - EMP
+  - `igniteveh <name>` - Ignite
+  - `deleteveh <name>` - Delete
+  - `poptyres <name>` - Pop Tires
+  - `slingshot <name>` - Slingshot
+  - `lock <name>` - Lock Doors
+  - `turnaround <name>` - Turn Around
+  - `detachwing <name>` - Detach Wing
+  - `detachwheel <name>` - Detach Wheel
+  - `slippery <name>` - Slippery Tires
+  - `removedoors <name>` - Remove Doors
+  - `destroyprop <name>` - Destroy Propellers
+  - `breakofftailboom <name>` - Break off Tail Boom
+- Players > (Player) > Trolling
+  - `freeze <name>` - Freeze
+  - `confuse <name>` - Force Camera Forward
+  - `mugloop <name>` - Mugger Loop **[ULTIMATE ONLY FEATURE]**
+  - `kill <name>` - Kill
+  - `cage <name>` - Cage
+  - `explode <name>` - Explode
+  - `vehkick <name>` - Kick From Vehicle
+  - `interiorkick <name>` - Kick From Interior
+  - `ceokick <name>` - CEO/MC Kick
+  - `infiniteloading <name>` - Infinite Loading Screen
+  - `ring <name>` - Infinite Phone Ringing
+    - Note that it will do it for the whole session, not just the player.
+  - `mission <name>` - Force Into Freemode Mission
+  - `raid <name>` - Trigger Business Raid
+- Players > (Player) > Increment Commend/Report Stats
+  - `reportgriefing <name>` - Griefing or Disruptive Gameplay
+  - `reportexploits <name>` - Cheating or Modding
+  - `reportbugabuse <name>` - Glitching or Abusing Game Features
+  - `reportannoying <name>` - Text Chat : Annoying Me
+  - `reporthate <name>` - Text Chat : Using Hate Speech
+  - `reportvcannoying <name>` - Voice Chat : Annoying Me
+  - `reportvchate <name>` - Voice Chat : Using Hate Speech
+- Players > (Player) > Kick
+  - `kick <name>` - Smart
+  - `aids <name>` - Pool's Closed
+  - `loveletter{kick} <name>` - Love Letter
+  - `orgasm{kick} <name>` - Orgasm
+  - `blacklist{kick} <name>` - Blacklist
+  - `hostkick <name>` - Host
+  - `nonhostkick <name>` - Non-Host
+  - `pickupkick <name>` - Invalid Pickup
+
+# Toxic Commands
+- Players > (Player) > Crash
+  - `crash <name>` - Elegant
+  - `footlettuce <name>` - Burger King Foot Lettuce (BKFL)
+  - `slaughter <name>` - Vehicular Manslaughter
+  - `steamroll <name>` - Steamroller
+
+# All Players Commands
+- Teleport
+  - `summonall` - Teleport To Me
+    - Rude Command
+  - `aptmeall` - TP to Apartment Near Me
+    - Rude Command
+  - `aptwpall` - TP to Apartment Near My Waypoint
+    - Rude Command
+  - `apt[1-114]all` - TP to Apartment
+    - Rude Command
+  - `casinotpall` - TP to Casino
+    - Aggressive Command
+- Friendly
+  - Vehicle
+    - `repairvehall` - Fix Vehicle
+    - `givevehgodall` - Indestructible
+    - `givenolockonall` - Can't Be Locked On
+    - `givepowerall (1.00 - 20.00)` - Engine Power Multiplier
+  - Give Collectibles
+    - `givecollectiblesall` - All
+  - `ceopayall` - CEO Money Loop
+  - `rpall` - Give RP
+  - `figurinesall` - Drop Casino Figurines
+  - `cardsall` - Drop Playing Cards
+  - `autohealall` - Auto Heal
+  - `bailall` - Never Wanted
+  - `giveotrall` - Off The Radar
+    - All of the above are 'Friendly' commands.
+  - `snackall` -  Drop P's & Q's
+    - Neutral Command
+- Chat
+  - `chatmockall` - Mock Chat Messages
+    - Rude Command
+  - `chatowoall` - OwO-ify Chat Messages
+    - Rude Command
+- Weapons
+  - `arm all all` - Give all weapons
+  - `arm all [weapon_name]` - Give a specific weapon
+  - `ammoall` - Give Ammo
+  - `paragiveall` - Give Parachute
+    - All of the above are 'Friendly' commands.
+  - `disarmall` - Disarm
+    - Rude Command
+- Trolling
+  - Vehicle
+    - `slipperyall` - Slippery Tires
+      - Aggressive Command
+  - `pwantedall (0 - 5)` - Set Wanted Level
+    - Rude Commands
+  - `freezeall` - Freeze
+    - Aggressive Command
+  - `confuseall` - Force Camera Forward
+    - Aggressive Command
+  - `ragdollall` - Ragdoll
+    - Rude Command
+  - `shakecamall` - Shake Camera
+    - Rude Command
+  - `killall` - Kill
+    - Aggressive Command
+  - `cageall` - Cage
+    - Aggressive Command
+  - `explodeall` - Explode
+    - Aggressive Command
+  - `bountyall [0-10000]` - Place Bounty
+    - Rude Command
+  - Send Notifications
+    - `notifyremovedall [-2147483648 - 2147483648]` - Cash Removed
+    - `notifystolenall [-2147483648 - 2147483648]` - Cash Stolen
+    - `notifybankedall [-2147483648 - 2147483648]` - Cash Banked
+    - `notifyspamall` - Notification Spam
+      - Rude Commands
+  - `vehkickall` - Kick From Vehicle
+  - `interiorkickall` - Kick From Interior
+  - `novehsall` -  Disable Driving Vehicles
+  - `infiniteloadingall` - Infinite Loading Screen
+  - `ringall` - Infinite Phone Ringing
+  - `missionall` - Force Into Freemode Mission
+  - `raidall` - Trigger Business Raid
+- Increment Commend/Report Stats
