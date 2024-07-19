@@ -1,16 +1,16 @@
 # Informations :
 - Original Command List : https://rxcf.github.io/Stand-CCL/
 - The list you are looking at has been updated as late as Stand 116.10.
-- Last Updated : Friday 19th July 2024 at 08:30AM.
+- Last Updated : Friday 19th July 2024 at 09:19AM, European Time.
 
 # Table of Contents
-- Spawn Commands
-- Friendly Commands
-- Neutral Commands
-- Rude Commands
-- Aggressive Commands
-- Toxic Commands
-- All Players Commands
+- [Spawn Commands](https://github.com/ScriptHost/Stand-Chat-Coms-List/blob/main/README.md#spawn-commands)
+- [Friendly Commands](https://github.com/ScriptHost/Stand-Chat-Coms-List/blob/main/README.md#friendly-commands)
+- [Neutral Commands](https://github.com/ScriptHost/Stand-Chat-Coms-List/blob/main/README.md#neutral-commands)
+- [Rude Commands](https://github.com/ScriptHost/Stand-Chat-Coms-List/blob/main/README.md#rude-commands)
+- [Aggressive Commands](https://github.com/ScriptHost/Stand-Chat-Coms-List/blob/main/README.md#aggressive-commands)
+- [Toxic Commands](https://github.com/ScriptHost/Stand-Chat-Coms-List/blob/main/README.md#toxic-commands)
+- [All Players Commands](https://github.com/ScriptHost/Stand-Chat-Coms-List/blob/main/README.md#all-players-commands)
 
 # Spawn Commands
 - `spawn <carname>`
