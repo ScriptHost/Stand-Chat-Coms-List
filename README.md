@@ -1,4 +1,4 @@
-# I won't update this list anymore as [the original owner)(https://rxcf.github.io/Stand-CCL/) restarting maitaining the list.
+# I won't update this list anymore as [the original owner](https://rxcf.github.io/Stand-CCL/) restarting maitaining the list.
 
 # Informations :
 - Original Command List : https://rxcf.github.io/Stand-CCL/
