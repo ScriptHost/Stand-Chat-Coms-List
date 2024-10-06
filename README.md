@@ -1,3 +1,5 @@
+# I won't update this list anymore as [the original owner)(https://rxcf.github.io/Stand-CCL/) restarting maitaining the list.
+
 # Informations :
 - Original Command List : https://rxcf.github.io/Stand-CCL/
 - The list you are looking at has been updated as late as Stand 116.10.
